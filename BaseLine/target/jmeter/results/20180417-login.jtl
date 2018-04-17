@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="844" it="0" lt="843" ct="633" ts="1523956657260" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="1277" sby="430" ng="1" na="1"/>
+<httpSample t="145" it="0" lt="145" ct="0" ts="1523956658113" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="1042" sby="430" ng="1" na="1"/>
+<httpSample t="159" it="0" lt="158" ct="0" ts="1523956658259" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="757" sby="430" ng="1" na="1"/>
+<httpSample t="166" it="0" lt="166" ct="0" ts="1523956658419" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="951" sby="430" ng="1" na="1"/>
+<httpSample t="166" it="0" lt="166" ct="0" ts="1523956658585" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="951" sby="430" ng="1" na="1"/>
+<httpSample t="335" it="0" lt="335" ct="0" ts="1523956658752" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="951" sby="430" ng="1" na="1"/>
+<httpSample t="211" it="0" lt="211" ct="0" ts="1523956659089" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="951" sby="430" ng="1" na="1"/>
+<httpSample t="272" it="0" lt="272" ct="115" ts="1523956659301" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="950" sby="430" ng="1" na="1"/>
+<httpSample t="154" it="0" lt="154" ct="0" ts="1523956659574" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="951" sby="430" ng="1" na="1"/>
+<httpSample t="217" it="0" lt="217" ct="0" ts="1523956659729" s="true" lb="login" rc="200" rm="OK" tn="线程组 1-1" dt="text" by="757" sby="432" ng="1" na="1"/>
+
+</testResults>
